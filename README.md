@@ -14,8 +14,12 @@ bash
 python translation_model.py
 
 
-4. *Use Trained Model*:
-python
+4. *Use Trained Model*: for testing use the below script 
+
+.
+.
+.
+# import the model 
 from translation_model import load_model, translate_text
 
 # Load trained model
